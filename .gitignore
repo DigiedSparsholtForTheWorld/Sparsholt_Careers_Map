@@ -1,2 +1,3 @@
 media/tree.txt
-panorama*
+panorama_[1-9]*
+panorama_F*
